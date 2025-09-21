@@ -1,0 +1,61 @@
+#!/bin/zsh
+#
+# Tool to extract pictograms from SVG files into a pictogram catalog.
+#
+# Usage:
+#     make-pictograms SVG_DIRECTORY [OUTPUT]
+#
+# SVG_DIRECTORY: Directory that contains SVG files with pictogram definition.
+# OUTPUT: Name of output file for the pictogram catalog. Default: pictograms.json
+#
+# Documentation of pictogram SVG format:
+#
+#     https://github.com/OpenPoiesis/poietic-diagram
+#
+
+
+if ! command -v pictogram &> /dev/null
+then
+    echo "ERROR: Command 'pictogram' not found." 1>&2
+    echo "HINT: Follow the installation instructions in the PoieticDiagram package" 1>&2
+    echo "HINT: Get the tool at https://github.com/OpenPoiesis/poietic-diagram" 1>&2
+    echo "HINT: Make sure you have '~/.swiftpm/bin' in your PATH." 1>&2
+    exit 1
+fi
+
+if [ -z "$1" ] ; then
+    echo "Please specify a directory which contains a collection of SVG files with pictograms"
+    exit 1
+fi
+
+SOURCE_PATH=$1
+
+if [ -z "$2" ] ; then
+    RESULT_FILE="pictograms.json"
+else
+    RESULT_FILE="${2}"
+fi
+
+TMP_DIR=$(mktemp -d /tmp/pictogram-XXXXXX)
+
+echo "Extracting pictograms from: ${SOURCE_PATH}"
+
+pictogram_files=()
+
+for svgfile in ${SOURCE_PATH}/*.svg
+do
+    base=`basename $svgfile`
+    picto_name=${base%*.svg}
+    pictogram_files+=(${picto_name}.json)
+    echo "    ${picto_name}"
+    pictogram extract -o ${TMP_DIR}/${picto_name}.json ${svgfile} \
+        || echo "WARNING: Unable to convert ${svgfile}. Skipping."
+done
+
+echo "Creating pictogram collection: ${RESULT_FILE}"
+pictogram collect --pretty -o ${RESULT_FILE} ${pictogram_files/#/${TMP_DIR}\/}
+
+rm ${TMP_DIR}/*.json
+rmdir ${TMP_DIR}
+
+
