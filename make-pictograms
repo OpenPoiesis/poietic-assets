@@ -54,6 +54,7 @@ done
 
 echo "Creating pictogram collection: ${RESULT_FILE}"
 pictogram collect --pretty -o ${RESULT_FILE} ${pictogram_files/#/${TMP_DIR}\/}
+pictogram catalog -o catalog.svg ${pictogram_files/#/${TMP_DIR}\/}
 
 rm ${TMP_DIR}/*.json
 rmdir ${TMP_DIR}
