@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="run.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89"
+     inkscape:cx="499.4382"
+     inkscape:cy="499.4382"
+     inkscape:current-layer="svg1" />
+  <g
+     id="run"
+     transform="matrix(5.9844007,0,0,5.9355108,-2611.8875,-1779.2361)"
+     style="stroke-width:10.7384">
+    <path
+       class="body"
+       d="M 471.14143,446.00016 V 321.99984 l 97.71732,62.00017 z"
+       fill="white"
+       id="path4"
+       style="fill:none;stroke:black;stroke-width:10.7384;stroke-linejoin:round" />
+  </g>
+</svg>

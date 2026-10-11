@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="formula.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89"
+     inkscape:cx="500"
+     inkscape:cy="499.4382"
+     inkscape:current-layer="svg1" />
+  <g
+     id="formula"
+     transform="matrix(6.2955078,0,0,6.2940227,-2352.417,-3532.2269)"
+     style="stroke-width:10.16717827">
+    <path
+       id="path64"
+       style="display:inline;fill:none;stroke:black;stroke-width:10.16717827;stroke-linecap:round;stroke-linejoin:round"
+       d="m 483.4645,702.15738 10.20927,-14.1446 8.43739,-15.05852 5.20308,-14.66483 5.34369,-18.1377 0.98436,-17.71591 v -11.5294 l -1.40624,-10.54517 -3.0937,-10.68579 -3.5156,-10.12337 m -68.37915,100.04564 56.65717,-66.86348 m -42.0464,0 33.18713,66.86348 m -52.09152,22.13785 -4.92181,-13.28693 -3.09372,-17.26598 -0.42188,-10.6436 1.40624,-15.46626 3.09372,-14.62265 4.35933,-12.79482 5.34368,-12.51362 7.03118,-13.21662 5.34368,-7.59254 3.5156,-4.35867 m -62.07693,98.29514 11.10923,-63.70695 h -10.12487 26.99969 -16.87482 l 3.5156,-19.54373 2.24997,-6.60831 5.34369,-6.74891 7.45303,-2.53084 5.76558,0.8436 3.65623,1.68724" />
+  </g>
+</svg>

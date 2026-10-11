@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+<g id="line-orthogonal" transform="matrix(4.210526,0,0,4.210526,-1663.114653,-3790.526611)">
+      
+      <path
+         class="body"
+         id="path29"
+         style="fill:none;stroke:black;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+         d="m 450.73973,1050.6197 h 63 v -63.23926 h 63 m -53.81251,31.61966 a 9.1874914,9.2223856 0 0 1 -9.18749,9.2224 9.1874914,9.2223856 0 0 1 -9.18748,-9.2224 9.1874914,9.2223856 0 0 1 9.18748,-9.2224 9.1874914,9.2223856 0 0 1 9.18749,9.2224 z" />
+    </g>
+</svg>

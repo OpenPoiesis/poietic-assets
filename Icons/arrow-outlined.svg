@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="arrow-outlined.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89"
+     inkscape:cx="500"
+     inkscape:cy="499.4382"
+     inkscape:current-layer="svg1" />
+  <g
+     id="arrow-outlined"
+     transform="matrix(8.0466874,0,0,8.0450461,-4902.7359,-3875.3173)"
+     style="stroke-width:7.95439">
+    <path
+       style="display:inline;fill:none;stroke:black;stroke-width:7.95439;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+       d="m 624,528 h 48 V 496 L 718.84738,544.00001 672,591.70472 v -32 L 624,560 Z"
+       id="path2-8"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

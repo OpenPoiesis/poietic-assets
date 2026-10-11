@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+<g id="handle-flow" transform="matrix(5.155308,0,0,5.155308,-2965.024933,-3126.296557)">
+      
+      <path
+         style="display:inline;fill:none;stroke:black;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+         d="m 626.99998,673.20539 h 21.25531 V 659.0257 l 20.7449,21.26955 -20.7449,21.1387 v -14.1797 l -21.25531,0.13084 z"
+         id="path26"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="display:inline;fill:none;stroke:black;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+         d="m 716.74478,672 h -21.25531 v -14.17969 l -20.7449,21.26955 20.7449,21.1387 v -14.1797 l 21.25531,0.13084 z"
+         id="path26-5"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="display:inline;fill:none;stroke:black;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+         d="m 703.27964,748.02454 v -21.25531 h 14.17969 l -21.26955,-20.7449 -21.1387,20.7449 h 14.1797 l -0.13084,21.25531 z"
+         id="path26-5-5"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="display:inline;fill:none;stroke:black;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+         d="m 655.02444,706.99996 v 21.25531 h 14.17969 l -21.26955,20.7449 -21.1387,-20.7449 h 14.1797 l -0.13084,-21.25531 z"
+         id="path26-5-5-0"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+</svg>

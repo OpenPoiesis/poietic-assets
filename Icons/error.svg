@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="error.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89"
+     inkscape:cx="500"
+     inkscape:cy="499.4382"
+     inkscape:current-layer="svg1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="20"
+       spacingy="20"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="error"
+     transform="matrix(6.2457096,0,0,6.2598576,-2750.8918,-1903.7862)"
+     style="stroke-width:10.2354">
+    <path
+       id="path1"
+       style="display:inline;fill:none;stroke:black;stroke-width:10.2354;stroke-linejoin:round"
+       inkscape:label="Triangle"
+       d="M 458.49984,437.7265 H 582.50016 L 520.5,330.27328 Z m 52.39356,-69.70116 h 19.21319 l -9.6066,33.06176 z m 14.99792,51.04055 c 0,2.97937 -2.41378,5.39462 -5.39132,5.39462 -2.97754,0 -5.39131,-2.41526 -5.39131,-5.39462 0,-2.97937 2.41377,-5.39463 5.39131,-5.39463 2.97755,0 5.39132,2.41526 5.39132,5.39463 z"
+       sodipodi:nodetypes="ccccccccsssss" />
+  </g>
+</svg>

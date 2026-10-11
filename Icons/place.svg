@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="place.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89"
+     inkscape:cx="481.46067"
+     inkscape:cy="530.89888"
+     inkscape:current-layer="svg1" />
+  <g
+     id="place"
+     transform="matrix(6.246144,0,0,6.2739398,-3697.4089,-2908.3249)"
+     style="stroke-width:10.22359894">
+    <path
+       id="rect1"
+       class="body"
+       style="fill:none;stroke:black;stroke-width:10.22359894;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.990196;paint-order:fill markers stroke"
+       d="M 642.67922,530.46904 H 734 v 60.3921 h -91.32078 z m 26.65447,-3.16617 a 29.666824,31.661733 0 0 1 -29.66682,31.66174 29.666824,31.661733 0 0 1 -29.66684,-31.66174 29.666824,31.661733 0 0 1 29.66684,-31.66173 29.666824,31.661733 0 0 1 29.66682,31.66173 z" />
+  </g>
+</svg>

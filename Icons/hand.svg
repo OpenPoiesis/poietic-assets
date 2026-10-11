@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Split from icons.svg by Scripts/build-icon-font.py extract. Edit this file, not the atlas. -->
+
+<svg
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="hand.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.896"
+     inkscape:cx="499.44196"
+     inkscape:cy="499.44196"
+     inkscape:window-width="1713"
+     inkscape:window-height="1186"
+     inkscape:window-x="2240"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <g
+     id="hand"
+     transform="matrix(-6.3916442,0,0,6.3859967,1811.5341,-13290.847)"
+     style="stroke-width:10.01749959">
+    <path
+       style="display:inline;fill:none;stroke:black;stroke-width:10.01749959;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="m 214.468,2220.1505 c 0,-23.0876 4.28234,-26.9531 15.09156,-34.8385 12.01145,-8.7625 35.93912,-15.0627 32.6265,-26.6171 -3.36013,-11.7201 -22.62838,8.0339 -35.45924,8.0339 -9.01924,0 5.10991,-66.845 -8.35871,-67.7815 -9.82414,-0.6832 -10.85152,37.4389 -11.19408,55.9089 -0.1754,9.4568 -0.39187,-52.4926 -10.94881,-51.4108 -13.02877,1.335 -5.79409,33.6452 -6.65327,52.1018 -0.4299,9.235 -1.51146,-54.405 -13.30247,-51.1415 -7.48505,2.0716 -6.61547,30.285 -6.12952,54.9417 0.18372,9.3215 -8.42473,-46.8534 -20.20374,-38.8782 -10.51601,7.1198 23.38713,85.6079 23.53219,99.4704"
+       id="path9"
+       sodipodi:nodetypes="cssssssssssc" />
+  </g>
+</svg>

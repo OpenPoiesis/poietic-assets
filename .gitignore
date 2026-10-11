@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Other
+/dist/
+/out/
+/Sandbox/
+/gh-pages/
+__pycache__/
