@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ASCII'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="-117.822 -104.235 236.221 236.22" width="236.221" height="236.22">
+  <g id="mask" inkscape:label="mask">
+    <path d="M 10.2334 -25.9727 L 39.192 24.1988 C 41.3015 27.8529 41.3006 32.3553 39.1911 36.0088 C 37.0807 39.663 33.182 41.9142 28.9622 41.9142 L -28.9551 41.9142 C -33.175 41.9142 -37.0737 39.663 -39.1831 36.0088 C -41.2935 32.3553 -41.2935 27.8529 -39.1841 24.1988 L -10.2254 -25.9727 C -8.11592 -29.6275 -4.21632 -31.8792 0.0035272 -31.8792 C 4.22429 -31.8792 8.12297 -29.6275 10.2334 -25.9727 Z" style="fill:rgb(255,233,142);"/>
+  </g>
+  <g id="collision" inkscape:label="collision">
+    <path d="M -0.003772 -20.0686 L 28.9549 30.1029 L -28.9624 30.1029 L -0.003772 -20.0686 Z" style="fill:rgb(255,142,168);"/>
+  </g>
+  <g id="pictogram" inkscape:label="pictogram">
+    <g>
+      <path d="M -0.00026278 -20.0683 L 28.9584 30.1032 L -28.9589 30.1032 L -0.00026278 -20.0683 Z" style="fill:none;stroke:black;stroke-opacity:0.99;stroke-width:3.63px;"/>
+    </g>
+    <g>
+      <path d="M 0.000852595 16.547 L -4.72332 0.0118298 C -4.72332 0.0118298 -5.19347 -4.72557 0.000852595 -4.7125 C 4.86366 -4.70096 4.72653 0.0118298 4.72653 0.0118298 L 0.000852595 16.547 Z" style="fill:none;stroke:black;stroke-width:1.97px;stroke-miterlimit:1.5;"/>
+    </g>
+    <g>
+      <circle cx="0.004158224969842195" cy="23.632912610896256" r="3.5433353263431755" style="fill:none;stroke:rgb(35,31,32);stroke-width:3.54px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+    </g>
+  </g>
+</svg>

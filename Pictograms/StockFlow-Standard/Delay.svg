@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ASCII'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="-118.115 -118.11 236.22 236.221" width="236.22" height="236.221">
+  <g id="mask" inkscape:label="mask">
+    <path d="M 82.6804 -59.056 L 82.6804 59.054 C 82.6804 72.1052 72.0978 82.676 59.0584 82.676 L -59.0516 82.676 C -72.1027 82.676 -82.6736 72.1052 -82.6736 59.054 L -82.6736 -59.056 C -82.6736 -72.1072 -72.1027 -82.678 -59.0516 -82.678 L 59.0584 -82.678 C 72.0978 -82.678 82.6804 -72.1072 82.6804 -59.056 Z" style="fill:rgb(255,233,142);"/>
+  </g>
+  <g id="collision" inkscape:label="collision">
+    <rect x="-59.05157099999997" y="-59.05600000000001" width="118.1099999999999" height="118.10999999999999" style="fill:rgb(255,137,166);"/>
+  </g>
+  <g id="pictogram" inkscape:label="pictogram">
+    <path id="path101" d="M 22.731 -11.811 L 22.731 11.811 M -22.741 -1.13687e-13 L 22.731 -1.13687e-13 M -22.741 -11.811 L -22.741 11.811 M 59.05 -59.056 L 59.05 59.055 L -59.06 59.055 L -59.06 -59.056 L 59.05 -59.056 Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.99;stroke-width:0.5px;"/>
+  </g>
+</svg>

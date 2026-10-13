@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ASCII'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="-118.109 -118.11 236.221 236.22" width="236.221" height="236.22">
+  <g id="mask" inkscape:label="mask">
+    <circle cx="-0.001310000000103173" cy="-0.0013099999999894862" r="82.67699999999999" style="fill:rgb(255,233,142);"/>
+  </g>
+  <g id="collision" inkscape:label="collision">
+    <circle cx="0.003349999999954889" cy="-0.0006500000000073669" r="59.055" style="fill:rgb(255,142,168);"/>
+  </g>
+  <g id="pictogram" inkscape:label="pictogram">
+    <g>
+      <path d="M -13.7798 -12.9856 L -13.7798 -15.3773 L -11.4506 -20.0356 L -9.04228 -22.4273 L -4.32145 -24.8356 L 5.11604 -24.8356 L 9.85353 -22.4273 L 12.2452 -20.0356 L 14.5744 -15.3773 L 14.5744 -10.5773 L 12.2452 -5.93979 L 9.85353 -3.53146 L 0.395208 1.18936 L 0.395208 8.31852 M 0.395208 20.0852 L -1.99646 22.4643 L 0.395208 24.8227 L 2.8077 22.4643 L 0.395208 20.0852" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.74px;"/>
+    </g>
+    <g>
+      <circle cx="0.0003499999999121428" cy="-0.006649999999979173" r="59.055" style="fill:none;stroke:black;stroke-opacity:0.99;stroke-width:0.5px;"/>
+    </g>
+  </g>
+</svg>

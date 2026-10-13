@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='ASCII'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="-118.121 -118.111 236.22 236.22" width="236.22" height="236.22">
+  <g id="mask" inkscape:label="mask">
+    <path d="M 70.8685 -59.056 L 70.8685 59.054 C 70.8685 65.5737 65.5771 70.865 59.0574 70.865 L -59.0536 70.865 C -65.5851 70.865 -70.8647 65.5737 -70.8647 59.054 L -70.8647 -59.056 C -70.8647 -65.5757 -65.5851 -70.867 -59.0536 -70.867 L 59.0574 -70.867 C 65.5771 -70.867 70.8685 -65.5757 70.8685 -59.056 Z" style="fill:rgb(255,233,142);"/>
+  </g>
+  <g id="collision" inkscape:label="collision">
+    <rect x="-59.05358709999996" y="-59.05600000000001" width="118.11099999999988" height="118.10999999999999" style="fill:rgb(255,137,166);"/>
+  </g>
+  <g id="pictogram" inkscape:label="pictogram">
+    <path d="M -32.6615 21.8372 L 1.00013 21.8372 L 1.00013 -21.8399 L 34.6618 -21.8399" style="fill:none;stroke:rgb(26,26,26);stroke-opacity:0.99;stroke-width:0.5px;"/>
+    <path d="M -32.6615 21.849 C 1.00013 21.3648 0.693037 -22.8084 34.6618 -21.8399" style="fill:none;stroke:black;stroke-opacity:0.99;stroke-width:0.5px;"/>
+    <rect x="-58.94120730000009" y="-58.619314" width="119.88266500000009" height="117.235986" style="fill:none;stroke:rgb(26,26,26);stroke-opacity:0.99;stroke-width:0.5px;"/>
+  </g>
+</svg>

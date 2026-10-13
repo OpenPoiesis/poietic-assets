@@ -24,7 +24,7 @@ PYTHON=${PYTHON:-python3}
 
 SOURCE_ICONS=${SOURCE_ICONS:-Icons}
 MANIFEST=${MANIFEST:-"$SOURCE_ICONS"/manifest.json}
-FONT_FILE=${FONT_FILE:-dist/fonts/poietic-icons.ttf}
+FONT_FILE=${FONT_FILE:-dist/contents/fonts/poietic-icons.ttf}
 VALIDATE=${VALIDATE:-1}
 
 die() { printf 'make-icon-font: %s\n' "$*" >&2; exit 1; }

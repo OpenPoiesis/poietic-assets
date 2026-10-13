@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ASCII'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="-118.107 -118.111 236.221 236.22" width="236.221" height="236.22">
+  <g id="mask" inkscape:label="mask">
+    <circle cx="-0.001310000000103173" cy="-0.0013099999999894862" r="82.67699999999999" style="fill:rgb(255,233,142);"/>
+  </g>
+  <g id="collision" inkscape:label="collision">
+    <circle cx="0.003349999999954889" cy="-0.00164999999998372" r="59.055" style="fill:rgb(255,142,168);"/>
+  </g>
+  <g id="pictogram" inkscape:label="pictogram">
+    <circle id="ellipse8" cx="0.003349999999954889" cy="-0.00164999999998372" r="59.055" style="fill:none;stroke:black;stroke-opacity:0.99;stroke-width:0.5px;"/>
+  </g>
+</svg>
