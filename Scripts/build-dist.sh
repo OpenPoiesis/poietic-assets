@@ -21,7 +21,7 @@ set -eu
 
 SCRIPT_NAME=${0##*/}
 
-ASSETS_VERSION=${ASSETS_VERSION:-v0.1}
+ASSETS_VERSION=${ASSETS_VERSION:-v0.10}
 
 SCRIPTS=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 
